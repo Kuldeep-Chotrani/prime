@@ -242,7 +242,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
   }
   @media (max-width: 768px) 
   {.intro .overlay {
-	background-image: url('img/background_image.jpg');
+	background-image: url('../img/background_image.jpg');
 	background-size: cover;
 	background-position: center;
 	background-blend-mode: overlay;
