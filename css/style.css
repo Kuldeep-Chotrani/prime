@@ -237,7 +237,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background-size: cover;
 	background-position: center;
 	background-blend-mode: overlay;
-	background-color: rgba(0, 0, 0, 0.5); /* Adjust the opacity value as needed */
+	background-color: rgba(0, 0, 0, 0.5);
 
   }
   @media (max-width: 768px) 
